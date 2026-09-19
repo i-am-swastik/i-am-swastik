@@ -1,4 +1,4 @@
-## About Me👋
+## About Me
 
 <!--
 **i-am-swastik/i-am-swastik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
